@@ -1,0 +1,8 @@
+#Max Distance you can tp to. High numbers can lag your server!!!
+MaxDistance: 8
+
+#cooldown between ability uses. set to 0 to disable.
+Cooldown: 3000
+
+#Enderman teleportation sound. set to false to disable.
+TPSound: true

@@ -1,0 +1,6 @@
+name: EndSword
+version: '1.0.0'
+main: hazem.endsword.EndSword
+api-version: '1.20'
+description: 'End Sword tp you when you right click it'
+author: 7azem_
